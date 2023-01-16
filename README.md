@@ -44,4 +44,4 @@ Telemedicine is also being utilized by healthcare systems, medical practices, an
 Despite the potential benefits of telemedicine, there are also challenges to implementing internet consultation in the medical sector. The first thing you need to adopt telemedicine is strong internet connectivity. But many underdeveloped countries are still struggling to ensure good internet connectivity. If this problem gets solved, there are still plenty of berries. Ensuring the privacy of your data is one of them. When you are surfing online to get your medical treatment and might be sharing your personal data over the internet, it’s pretty much risky for your privacy if you are not aware of them.<br>
 Another big problem is that many insurance companies do not cover telemedicine services, which can be a barrier to patient access. This is particularly problematic in rural areas, where access to care may be limited, and patients may be more reliant on telemedicine as a primary source of healthcare.
 
-( Ongoing...)
+## ( Ongoing...)
