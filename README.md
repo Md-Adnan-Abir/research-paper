@@ -13,7 +13,7 @@ That is how with the help of digital technologies, medical care is becoming more
 
 The prefix 'Tele' comes from the Greek, which means 'at a distance'; hence telemedicine means medicine or medical service at a distance. It refers to the use of electronic communication technologies such as video conferencing, live chat, audio assistance, and messaging to provide healthcare services remotely, including online patient consultations, telehealth nursing, remote physical and psychiatry rehabilitation, etc. It has the potential to improve access to healthcare for underserved and remote populations and increase the efficiency and effectiveness of healthcare delivery.But, as communication technologies are upgrading every second, it's hard to describe it in some words. The sector of internet consultation is getting bigger rapidly. Rather than just giving consultancy, distance operating is also involved with the help of machine learning, robotics, and, most notably, AI technologies.<br>
 For a better understanding here is a short story explaining how telemedicine works:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FsKILHHhiew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/FsKILHHhiew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## History of internet consultation in the medical sector
 
