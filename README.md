@@ -46,4 +46,6 @@ Another big problem is that many insurance companies do not cover telemedicine s
 
 ## Telemedicine in the future
 
+If we look some years backward, there was minimal usage of telemedicine.
+
 ## ( Ongoing...)
