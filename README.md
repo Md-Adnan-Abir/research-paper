@@ -46,6 +46,6 @@ Another big problem is that many insurance companies do not cover telemedicine s
 
 ## Telemedicine in the future
 
-If we look some years backward, there was minimal usage of telemedicine. But after the Covid-19 breakdown, people were confined to their homes; as a result, many started to realize telehealth's importance and incredible applications.
+If we look some years backward, there was minimal usage of telemedicine. But after the Covid-19 breakdown, people were confined to their homes; as a result, many started to realize telehealth's importance and incredible applications. According to a survey taken by "software advise" in 2022 state that 62% of patients want to keep using telemedicine.
 
 ## ( Ongoing...)
