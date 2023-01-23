@@ -48,5 +48,6 @@ Another big problem is that many insurance companies do not cover telemedicine s
 
 If we look some years backward, there was minimal usage of telemedicine. But after the Covid-19 breakdown, people were confined to their homes; as a result, many started to realize telehealth's importance and incredible applications. According to a survey taken by "software advise" in 2022 state that 62% of patients want to keep using telemedicine.
 ![Patients plan, source: https://www.softwareadvice.com](patients-plan.png)
+From that survey, it's clear how likely the telemedicine industry might grow in the near future. Moreover, we can observe rapid prosperity in the communication technology sector, which directly helps the telemedicine sector to show better efficiency. It's not long before when might be many crucial medical problems will be solved just by sitting at home or not going far for better hospitals.
 
 ## ( Ongoing...)
