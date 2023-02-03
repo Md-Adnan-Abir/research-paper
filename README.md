@@ -52,7 +52,7 @@ From that survey, it's clear how likely the telemedicine industry might grow in 
 Telemedicine reduces the need for doctors and patients to travel and significantly impacts each sick person's life by ensuring they receive the appropriate medical care. Thus, people have already started to adopt telemedicine because of its uncountable benefits. Another survey states that "software advice" shows us a precise figure of people's interests and the prosperity of telemedicine.
 ![Patient preference, source: https://www.softwareadvice.com](patient-preference.jpg)
 Thus, it is proclaimed that,
->“The smart hospital of the future is a hospital without walls”
+>The smart hospital of the future is a hospital without walls.
 ---
 
 ## Reference
