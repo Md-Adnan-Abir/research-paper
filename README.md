@@ -55,7 +55,7 @@ Thus, it is proclaimed that,
 >“ The smart hospital of the future is a hospital without walls”
 ---
 
-##Reference
+## Reference
 
 -	Richard Wootton, 2001 September 8, ‘Recent advances: Telemedicine’. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121135/
 
