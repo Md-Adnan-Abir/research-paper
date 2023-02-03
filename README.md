@@ -25,6 +25,7 @@ For a better understanding here is a short story explaining how telemedicine wor
 The usual telemedicine scenario occurs between two parties separated by time, space, or both. The client can be a patient or health worker and obtains opinions and direction from expertise. Depending on the main thread, which is communication, we can divide it into two forms. Which is,
 1. Synchronous
 2. Asynchronous
+
 One form of internet consultation is synchronous communication, which involves real-time interaction between the patient and the healthcare provider through videoconferencing or voice calls. Synchronous telemedicine can be used for a variety of purposes, including consultations, diagnoses, and follow-up visits. It allows for the exchange of visual and verbal information, which can be particularly useful for conditions requiring a physical examination or assessing the patient's emotional state.
 <br>Another form of internet consultation is asynchronous communication, which does not involve real-time interaction. Asynchronous telemedicine can take the form of email or messaging exchanges between the patient and the healthcare provider or the use of electronic forms for the patient to provide information about their condition. This type of telemedicine can be helpful in managing chronic diseases, as well as in providing information and support to patients between visits.
 
@@ -32,8 +33,10 @@ One form of internet consultation is synchronous communication, which involves r
 
 It’s said that where technological advancements are changing the health sector infrastructure, telemedicine will stay because this is the future of the medical industry. With the help of telecommunication, as patients get quality treatment without traveling hundreds of miles and wasting lots of money, medical service providers are also getting more opportunities to spread their services.
 - How patients are getting benefits:
+
 Patients who need to travel a long distance or pay a tremendous amount to get quality healthcare can now get the same health advice at their fingertips. Moreover, with the blessing of telemedicine, one can access medical care 24 hours a day. So, in any emergency case, you won’t need to wait for help to come; one can reach expertise at no time, which might save many lives. In our busy lifestyle, any of us can’t afford the time to wait in a long line to get an appointment with our desired doctor. Internet consultation can’t solve this problem in seconds. Without waiting a long time in line, you can meet the expertise from your home, school, or even the workplace. Another facility is keeping track of your health and medical services is way easier than before because every treatment you are getting, and reports get saved in cloud space automatically.
 - How providers are getting benefits:
+
 Telemedicine is also being utilized by healthcare systems, medical practices, and nursing facilities to deliver care in a more efficient manner. With the integration of technologies such as electronic medical records, AI for diagnosis, and medical streaming devices, providers are able to assist in diagnosis and treatment more effectively. This allows for real-time monitoring of patients and adjustments to treatment plans as needed, resulting in improved patient outcomes. Moreover, providers can be benefited from increased revenue by being able to see more patients without the need for additional staff or expansion of office space. For example, telemedicine experts like VSee assist providers in implementing [HIPAA-compliant telemedicine solutions](https://vsee.com/clinic) that can streamline the whole process and incredibly improve patient care. 
 
 ## Challenges and limitations of internet consultation in the medical sector
