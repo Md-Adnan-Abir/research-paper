@@ -52,7 +52,7 @@ From that survey, it's clear how likely the telemedicine industry might grow in 
 Telemedicine reduces the need for doctors and patients to travel and significantly impacts each sick person's life by ensuring they receive the appropriate medical care. Thus, people have already started to adopt telemedicine because of its uncountable benefits. Another survey states that "software advice" shows us a precise figure of people's interests and the prosperity of telemedicine.
 ![Patient preference, source: https://www.softwareadvice.com](patient-preference.jpg)
 Thus, it is proclaimed that,
->“ The smart hospital of the future is a hospital without walls”
+>“The smart hospital of the future is a hospital without walls”
 ---
 
 ## Reference
@@ -67,7 +67,7 @@ Thus, it is proclaimed that,
 
 -	Field MJ, 1996, ‘Institute of Medicine (US) Committee on Evaluating Clinical Applications of Telemedicine’. https://www.ncbi.nlm.nih.gov/books/NBK45445/
 
--	National Library of Medicine, ‘1971: NASA brings telemedicine to Tohono O’odham’. https://www.nlm.nih.gov/nativevoices/timeline/526.html#:~:text=NASA%20launches%20the%20first%20satellite,the%20Tohono%20O'odham).	
+-	National Library of Medicine, ‘1971: NASA brings telemedicine to Tohono O’odham’. https://www.nlm.nih.gov/nativevoices/timeline/526.html
 
 - Patients action network, ‘Expand Access to Care with Telehealth’. https://patientsactionnetwork.com/telemedicine
 
