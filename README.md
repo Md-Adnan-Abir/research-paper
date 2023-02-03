@@ -50,4 +50,11 @@ If we look some years backward, there was minimal usage of telemedicine. But aft
 ![Patients plan, source: https://www.softwareadvice.com](patients-plan.png)
 From that survey, it's clear how likely the telemedicine industry might grow in the near future. Moreover, we can observe rapid prosperity in the communication technology sector, which directly helps the telemedicine sector to show better efficiency. It's not long before when might be many crucial medical problems will be solved just by sitting at home or not going far for better hospitals.
 
+## Conclusion
+
+Telemedicine reduces the need for doctors and patients to travel and significantly impacts each sick person's life by ensuring they receive the appropriate medical care. Thus, people have already started to adopt telemedicine because of its uncountable benefits. Another survey states that "software advice" shows us a precise figure of people's interests and the prosperity of telemedicine.
+![Patient preference, source: https://www.softwareadvice.com](patient-preference.jpg)
+Thus, it is proclaimed that,
+>“ The smart hospital of the future is a hospital without walls”
+
 ## ( Ongoing...)
