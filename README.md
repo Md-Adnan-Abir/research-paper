@@ -54,6 +54,8 @@ Telemedicine reduces the need for doctors and patients to travel and significant
 Thus, it is proclaimed that,
 >"The smart hospital of the future is a hospital without walls."
 
+---
+
 ## Reference
 
 -	Richard Wootton, 2001 September 8, ‘Recent advances: Telemedicine’. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121135/
