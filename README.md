@@ -73,7 +73,7 @@ Thus, it is proclaimed that,
 
 -	National Library of Medicine, ‘1971: NASA brings telemedicine to Tohono O’odham’. [https://www.nlm.nih.gov/nativevoices/timeline/526.html](https://www.nlm.nih.gov/nativevoices/timeline/526.html)
 
-- Wikipedia-the free encyclopedia, ‘Telehealth’. [https://en.wikipedia.org/wiki/Telehealth](https://en.wikipedia.org/wiki/Telehealth)
+- Wikipedia-The free encyclopedia, ‘Telehealth’. [https://en.wikipedia.org/wiki/Telehealth](https://en.wikipedia.org/wiki/Telehealth)
 
 - Patients action network, ‘Expand Access to Care with Telehealth’. [https://patientsactionnetwork.com/telemedicine](https://patientsactionnetwork.com/telemedicine)
 
