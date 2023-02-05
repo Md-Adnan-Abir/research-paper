@@ -61,18 +61,20 @@ Thus, it is proclaimed that,
 
 ## Reference
 
--	Richard Wootton, 2001 September 8, ‘Recent advances: Telemedicine’. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121135/
+-	Richard Wootton, 2001 September 8, ‘Recent advances: Telemedicine’. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121135/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121135/)
 
--	Peter M Yellowlees, 2022 March 2, ‘Successfully Developing a Telemedicine System’. https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100707
+-	Peter M Yellowlees, 2022 March 2, ‘Successfully Developing a Telemedicine System’. [https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100707](https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100707)
 
--	Paul J Heinzelmann, Nancy E Lugn, and Joseph C Kvedar, 2016 October 13, ‘Telemedicine in the future’. https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100802
+-	Paul J Heinzelmann, Nancy E Lugn, and Joseph C Kvedar, 2016 October 13, ‘Telemedicine in the future’. [https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100802](https://journals.sagepub.com/doi/epdf/10.1177/1357633X0501100802)
 
--	Abid Haleem, Mohd Javaid, Ravi Pratap Singh, and Rajiv Sumanc, 2021 July 24, ‘elemedicine for healthcare: Capabilities, features, barriers, and applications’. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590973/
+-	Abid Haleem, Mohd Javaid, Ravi Pratap Singh, and Rajiv Sumanc, 2021 July 24, ‘Telemedicine for healthcare: Capabilities, features, barriers, and applications’. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590973/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590973/)
 
--	Field MJ, 1996, ‘Institute of Medicine (US) Committee on Evaluating Clinical Applications of Telemedicine’. https://www.ncbi.nlm.nih.gov/books/NBK45445/
+-	Field MJ, 1996, ‘Institute of Medicine (US) Committee on Evaluating Clinical Applications of Telemedicine’. [https://www.ncbi.nlm.nih.gov/books/NBK45445/](https://www.ncbi.nlm.nih.gov/books/NBK45445/)
 
--	National Library of Medicine, ‘1971: NASA brings telemedicine to Tohono O’odham’. https://www.nlm.nih.gov/nativevoices/timeline/526.html
+-	National Library of Medicine, ‘1971: NASA brings telemedicine to Tohono O’odham’. [https://www.nlm.nih.gov/nativevoices/timeline/526.html](https://www.nlm.nih.gov/nativevoices/timeline/526.html)
 
-- Patients action network, ‘Expand Access to Care with Telehealth’. https://patientsactionnetwork.com/telemedicine
+- Wikipedia-the free encyclopedia, ‘Telehealth’. [https://en.wikipedia.org/wiki/Telehealth](https://en.wikipedia.org/wiki/Telehealth)
 
-- Global Partnership for Telehealth, 2021 March 15, ‘Tina's Story How Telemedicine works’(YouTube Video). https://youtu.be/FsKILHHhiew
+- Patients action network, ‘Expand Access to Care with Telehealth’. [https://patientsactionnetwork.com/telemedicine](https://patientsactionnetwork.com/telemedicine)
+
+Global Partnership for Telehealth, 2021 March 15, ‘Tina's Story How Telemedicine works’(YouTube Video). [https://youtu.be/FsKILHHhiew](https://youtu.be/FsKILHHhiew)
