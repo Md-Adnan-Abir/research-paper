@@ -77,4 +77,4 @@ Thus, it is proclaimed that,
 
 - Patients action network, ‘Expand Access to Care with Telehealth’. [https://patientsactionnetwork.com/telemedicine](https://patientsactionnetwork.com/telemedicine)
 
-Global Partnership for Telehealth, 2021 March 15, ‘Tina's Story How Telemedicine works’(YouTube Video). [https://youtu.be/FsKILHHhiew](https://youtu.be/FsKILHHhiew)
+- Global Partnership for Telehealth, 2021 March 15, ‘Tina's Story How Telemedicine works’(YouTube Video). [https://youtu.be/FsKILHHhiew](https://youtu.be/FsKILHHhiew)
