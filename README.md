@@ -22,7 +22,7 @@ For a better understanding here is a short story explaining how telemedicine wor
 
 ## Type of telemedicine
 
-The usual telemedicine scenario occurs between two parties separated by time, space, or both. The client can be a patient or health worker and obtains opinions and direction from expertise. Depending on the main thread, which is communication, we can divide it into two forms. Which is,
+The usual telemedicine scenario occurs between two parties separated by time, space, or both. The client can be a patient or health worker and obtains opinions and direction from expertise. Depending on the main thread, which is communication, we can divide it into two forms. Which are,
 1. Synchronous
 2. Asynchronous
 
