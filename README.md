@@ -58,6 +58,7 @@ Telemedicine reduces the need for doctors and patients to travel and significant
 ![Patient preference, source: https://www.softwareadvice.com](patient-preference.jpg)
 Thus, it is proclaimed that,
 >"The smart hospital of the future is a hospital without walls."
+Though telemedicine has helped the health sector, it is clear that it has so many limitation, the older adults are barely using this technologies, they prefer the traditional method. Therefore as we are making advances in digital health and telemedicine, we should not eradicate the traditional method and allow technologies to do most work a trained and certified worker should do which will create balance between the older adults and the youth.
 
 ---
 
