@@ -20,15 +20,6 @@ For a better understanding here is a short story explaining how telemedicine wor
 ![Telemedicine history, source: https://www.tsl.texas.gov/](telemedicine-history.jpg)<br>
 “The Radio Doctor-Maybe” was the headline of an illustration (1924) in a news magazine where a doctor was attending patients on a video call. Back then, it was just a vision, but who knew the vision would get utilized so accurately? In the early 1900s, when the radio communication system had a significant impact on the new era of communication, innovators also got concerned about giving medical treatment to rural areas over the radio. So, when was it really started? For some context, it first happened in the 1940s in Pennsylvania, where radiology images were sent 24 miles away via a telephone line between two townships. It was the first record of medical records transferred from a distance. But the evolution of telemedicine started when NASA and Indian Health had massive success with telemedicine in a partnership program. It was called Space Technology Applied to Rural Papago Advanced Health Care (STARPAHC), which provided both Native Americans on the Papago Reservation in Arizona and astronauts in orbit with access to medical care. After that, many universities, research companies, and medical centers started to put more effort with more creativity and ambition, followed by STARPAHC.
 
-## Type of telemedicine
-
-The usual telemedicine scenario occurs between two parties separated by time, space, or both. The client can be a patient or health worker and obtains opinions and direction from expertise. Depending on the main thread, which is communication, we can divide it into two forms. Which are,
-1. Synchronous
-2. Asynchronous
-
-One form of internet consultation is synchronous communication, which involves real-time interaction between the patient and the healthcare provider through videoconferencing or voice calls. Synchronous telemedicine can be used for a variety of purposes, including consultations, diagnoses, and follow-up visits. It allows for the exchange of visual and verbal information, which can be particularly useful for conditions requiring a physical examination or assessing the patient's emotional state.
-<br>Another form of internet consultation is asynchronous communication, which does not involve real-time interaction. Asynchronous telemedicine can take the form of email or messaging exchanges between the patient and the healthcare provider or the use of electronic forms for the patient to provide information about their condition. This type of telemedicine can be helpful in managing chronic diseases, as well as in providing information and support to patients between visits.
-
 ## Benefits of internet consultation in the medical sector
 
 It’s said that where technological advancements are changing the health sector infrastructure, telemedicine will stay because this is the future of the medical industry. With the help of telecommunication, as patients get quality treatment without traveling hundreds of miles and wasting lots of money, medical service providers are also getting more opportunities to spread their services.
