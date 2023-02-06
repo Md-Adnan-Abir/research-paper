@@ -2,7 +2,7 @@
 # Telemedicine
 -----
 
-## Introduction
+## **Introduction**
 
 According to [Patients Action Network](https://patientsactionnetwork.com/), Ms. Bunnie from Texas said that,
 >“I'm 78 years old. Telemedicine is so much more convenient then trying to get a ride. I can keep appointments when I feel too bad to go to the doctor.”
@@ -17,6 +17,8 @@ For a better understanding here is a short story explaining how telemedicine wor
 
 ## History of internet consultation in the medical sector
 
+**figure**1
+**TELEMEDICINE HISTORY**
 ![Telemedicine history, source: https://www.tsl.texas.gov/](telemedicine-history.jpg)<br>
 “The Radio Doctor-Maybe” was the headline of an illustration (1924) in a news magazine where a doctor was attending patients on a video call. Back then, it was just a vision, but who knew the vision would get utilized so accurately? In the early 1900s, when the radio communication system had a significant impact on the new era of communication, innovators also got concerned about giving medical treatment to rural areas over the radio. So, when was it really started? For some context, it first happened in the 1940s in Pennsylvania, where radiology images were sent 24 miles away via a telephone line between two townships. It was the first record of medical records transferred from a distance. But the evolution of telemedicine started when NASA and Indian Health had massive success with telemedicine in a partnership program. It was called Space Technology Applied to Rural Papago Advanced Health Care (STARPAHC), which provided both Native Americans on the Papago Reservation in Arizona and astronauts in orbit with access to medical care. After that, many universities, research companies, and medical centers started to put more effort with more creativity and ambition, followed by STARPAHC.
 
